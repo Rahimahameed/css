@@ -1,0 +1,51 @@
+.parent{
+    height: 2000px;
+    width: 2000px;
+    background-color: chocolate;
+    border: 2px solid white;
+    display: flex;
+      justify-content: space-evenly;
+    /* align-items: center;flex-direction: row-reverse; */
+  
+  
+
+
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: burlywood;
+    border: 2px solid white;
+    box-shadow: 15px 16px rgb(131, 131, 148) 18px 16px green 15px 10px violet;
+    /* flex-grow: 2; */
+
+}
+
+.box2
+{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border: 2px solid white;
+    box-shadow:-5px -6px 10px 10px blue;
+    opacity: .7;
+ 
+}
+.box3
+{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(135, 222, 161);
+    border: 2px solid white;
+    
+   
+
+}
+.box3:hover
+{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(197, 17, 41);
+    border: 2px solid white;
+}

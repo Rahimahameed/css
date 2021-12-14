@@ -1,0 +1,74 @@
+#h1{
+    color: rgb(93, 18, 212);
+    background-color: rgba(123, 185, 8, 0.301);
+    font-style: italic;
+    font-size: xx-large;
+}
+
+#p1{
+    color: rgb(30, 226, 226);
+    background-color: gray;
+    font-style: italic;
+    font-size: large;
+}
+
+#d1{
+    color: rgb(26, 24, 22);
+    background-color: rgb(236, 207, 186);
+    font-style: italic;
+    font-size: large;
+}
+
+.h1{
+    color: mediumvioletred;
+    background-color: oldlace;
+    font-weight: 200;
+    font-style: oblique;
+}
+.p1{
+    color: olive;
+    background-color: palegoldenrod;
+    font-style: normal;
+}
+
+ol>li{
+    color: lightcoral;
+    font-style: italic;
+    font-weight: 300;
+}
+
+ 
+div+p{
+    color: mediumorchid;
+    font-style: italic;
+    font-size: larger;
+}
+
+div~p{
+    color: sienna;
+    font-style: normal;
+    font-size: large
+}
+
+a[href="new.html"]
+{
+    color: mediumvioletred;
+    font-style: calc();
+    font-weight: 700;
+}
+
+a[href="new1.html"]
+{
+    color: rgb(54, 51, 53);
+    font-style: calc();
+    font-weight: 700;
+}
+
+
+img[alt="abcd"]
+{
+    height: 200px;
+    width: 100 px; 
+}
+     
+        
